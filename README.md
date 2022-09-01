@@ -4,4 +4,4 @@ NPM     : 2106653855
 
 Kelas   : A
 
-Hobi    : Nyisir    
+Hobi    : Ngopi Maszeh 
